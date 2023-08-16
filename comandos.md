@@ -20,3 +20,11 @@ tyes
 node
 JSON
 yes
+
+git commit -m "chore: add prettier and eslit setup"
+
+yarn add express
+
+yarn add -D @types/express
+
+yarn add -D dotenv
