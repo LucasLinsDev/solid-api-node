@@ -28,3 +28,6 @@ yarn add express
 yarn add -D @types/express
 
 yarn add -D dotenv
+
+yarn add .
+git commit -m "feat: add express initial server"
